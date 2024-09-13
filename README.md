@@ -1,6 +1,6 @@
 # PCB-BR
 
-Repositório focado naorganização de informações sobre design, fabricação, e qualquer outro assunto referente a PCBs no Brasil.
+Repositório focado na organização de informações sobre design, fabricação, e qualquer outro assunto referente a PCBs no Brasil.
 
 ### Empresas de fabricação de PCBs Brasileiras 🇧🇷:
 - [Circuibras](www.circuibras.com.br)
