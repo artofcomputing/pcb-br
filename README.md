@@ -6,6 +6,8 @@ Repositório focado na organização de informações sobre design, fabricação
 - [Circuibras](www.circuibras.com.br)
 - [Lauquen](www.lauquen.com.br/pt-br/home)
 - [Cirvale](cirvale.com.br)
+- [Serdia](serdia.com.br)
+- [Micropress](www.micropress.com.br)
 
 ### Empresas de fabricação de PCBs Internacionais 🌐:
 - [JLCPCB](jlcpcb.com)
