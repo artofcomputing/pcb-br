@@ -8,6 +8,8 @@ Repositório focado na organização de informações sobre design, fabricação
 - [Cirvale](cirvale.com.br)
 - [Serdia](serdia.com.br)
 - [Micropress](www.micropress.com.br)
+- [PCI Paraná](pciparana.com.br)
+- [PCB Brasil](pcbbrasil.com.br)
 
 ### Empresas de fabricação de PCBs Internacionais 🌐:
 - [JLCPCB](jlcpcb.com)
