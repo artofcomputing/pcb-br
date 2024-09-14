@@ -18,8 +18,10 @@ Repositório focado na organização de informações sobre design, fabricação
 - [SeeedStudio](https://www.seeedstudio.com/fusion_pcb.html)
 
 ### Sites de notícias relacionados:
+- [Embedded](https://www.embedded.com)
 - [Hackaday](https://hackaday.com)
 - [Hackster.io](https://hackster.io)
+- [Semiengineering](https://semiengineering.com)
 
 ### Ferramentas de Design de PCBs:
 - [Autodesk Eagle](https://eagle.autodesk.com)
